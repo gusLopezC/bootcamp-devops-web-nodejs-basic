@@ -18,12 +18,7 @@
 ![Jenkins](	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![city](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white)
 
----
-![](https://github.com/roxsross/roxsross/blob/main/images/roxsross-banner-1.png)
-
 🔥🔥🔥🔥
-
-### by RoxsRoss
 
 
 ### Guía para Ejecutar la Aplicación Node.js en tu Máquina Local
