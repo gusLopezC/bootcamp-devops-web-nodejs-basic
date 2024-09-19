@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment{
-        REGISTRY = 'roxsross12'
+        REGISTRY = 'Devopsross12'
         APPNAME = 'web-nodejs'
         VERSION = '1.0.0'
     }   
@@ -12,7 +12,7 @@ pipeline {
     stages {
         stage('GIT CHECKOUT') {
             steps {
-                git branch: 'master', changelog: false, poll: false, url: 'https://github.com/roxsross/web-nodejs-basic.git'
+                git branch: 'master', changelog: false, poll: false, url: 'https://github.com/Devopsross/web-nodejs-basic.git'
             }
         }
         

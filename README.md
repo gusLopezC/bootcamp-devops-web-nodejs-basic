@@ -37,7 +37,7 @@ Antes de comenzar, asegúrate de tener lo siguiente instalado en tu sistema:
    Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio:
 
    ```bash
-   git clone https://github.com/roxsross/web-nodejs-basic.git
+   git clone https://github.com/Devopsross/web-nodejs-basic.git
    ```
 
 2. **Navegar al Directorio del Proyecto:**
